@@ -2324,7 +2324,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button {
 nav.navbar.validnavs .navbar-collapse.collapse button i {
 	font-weight: 400;
 	font-size: 15px;
-	color: #fff;
+	color: #000000;
 }
 
 @media only screen and (max-width: 991px) {
