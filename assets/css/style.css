@@ -171,7 +171,11 @@ a, .btn, button {
     text-transform: uppercase;
 }
 
-
+.attr-nav ul li:hover a {
+    visibility: visible !important;
+    opacity: 1;
+    background: #1062fe !important;
+}
 
 /* ============================================================== 
      # Start Banner Css
