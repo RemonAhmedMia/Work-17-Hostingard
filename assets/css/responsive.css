@@ -1,0 +1,58 @@
+/*================================ 
+    #RESPONSIVE CSS 
+====================================*/
+
+/* Extra large: large desktops, 1200px and up*/
+@media (min-width: 1200px) {  }
+
+/* large device: desktops, 992px and up*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* Banner Responsive*/
+    /* .banner-style-one-item h1 {
+    font-size: 54px;
+} */
+    
+ }
+
+/* Tablet Layout: 768px.*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Banner Responsive*/
+    .banner-style-one-item h1 {
+    font-size: 55px;
+}
+}
+
+/* MObile Layout: 576px.*/
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    /* Banner Responsive*/
+    .banner-style-one-item h1 {
+    font-size: 45px;
+}
+    
+
+}
+
+/* MObile Layout: 576px.*/
+@media (max-width: 575.98px) { 
+
+/* Banner Responsive*/
+    .banner-style-one-item h1 {
+    font-size: 45px;
+}
+
+a.btn-md{
+    margin-left: 0px !important;
+    margin-top: 15px;
+}
+
+.banner-style-one-item {
+    text-align: center;
+}
+
+
+}
