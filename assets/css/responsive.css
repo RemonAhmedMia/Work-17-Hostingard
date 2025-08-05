@@ -23,6 +23,18 @@
     .banner-style-one-item h1 {
     font-size: 55px;
 }
+
+.attr-nav {
+    display: none;
+}
+
+/* Service Responsive */
+.servive-one-heading h3 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -33,7 +45,14 @@
     .banner-style-one-item h1 {
     font-size: 45px;
 }
-    
+    .attr-nav {
+    display: none;
+}
+
+/* Service Responsive */
+.servive-one-heading h3 {
+    font-size: 35px;
+}
 
 }
 
@@ -51,6 +70,24 @@ a.btn-md{
 }
 
 .banner-style-one-item {
+    text-align: center;
+}
+
+.attr-nav {
+    display: none;
+}
+
+/* Service Responsive */
+.servive-one-heading h3 {
+    font-size: 30px;
+}
+
+.service-one-card {
+    display: block;
+    text-align: center;
+}
+
+.service-one-item {
     text-align: center;
 }
 
