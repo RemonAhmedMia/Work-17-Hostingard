@@ -162,4 +162,15 @@ a.btn-md{
     font-size: 40px;
 }
 
+/* Service two Responsive */
+
+.service-two-item {
+    display: block !important;
+    text-align: center;
+}
+
+.service-two-heading h3 {
+    font-size: 46px;
+}
+
 }
