@@ -41,6 +41,12 @@
     margin-top: 30px;
 }
 
+/* About Responsive */
+
+.about-style-one-content {
+    margin-top: 70px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -73,6 +79,16 @@
 
 .feature-one-item.dynamik-relative {
     top: 0;
+}
+
+/* About Responsive */
+
+.about-style-one-content {
+    margin-top: 70px;
+}
+
+.about-style-one-content h2 {
+    font-size: 55px;
 }
 
 }
@@ -133,6 +149,17 @@ a.btn-md{
 
 .feature-one-item img {
     width: 55px;
+}
+
+/* About Responsive */
+
+.about-style-one-content {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.about-style-one-content h2 {
+    font-size: 40px;
 }
 
 }
