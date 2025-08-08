@@ -57,6 +57,24 @@
     margin-top: 30px;
 }
 
+.footer-one-area {
+    text-align: center;
+}
+
+ul.footer-social {
+    text-align: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.footer-one-left {
+    margin-bottom: 10px;
+}
+
+.footer-right {
+    margin-top: 15px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -120,6 +138,24 @@ ul.pricing-one-list-item li {
 ul.pricing-one-list-item li i {
     margin-right: 0;
     margin-bottom: 10px;
+}
+
+.footer-one-area {
+    text-align: center;
+}
+
+ul.footer-social {
+    text-align: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.footer-one-left {
+    margin-bottom: 10px;
+}
+
+.footer-right {
+    margin-top: 15px;
 }
 
 }
@@ -227,6 +263,24 @@ ul.pricing-one-list-item li i {
 
 .brand-one-item {
     text-align: center;
+}
+
+.footer-one-area {
+    text-align: center;
+}
+
+ul.footer-social {
+    text-align: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.footer-one-left {
+    margin-bottom: 10px;
+}
+
+.footer-right {
+    margin-top: 15px;
 }
 
 }
