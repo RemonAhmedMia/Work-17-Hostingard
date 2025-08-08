@@ -167,6 +167,19 @@ ul.footer-social {
     font-weight: 700;
 }
 
+.blog-one-heading {
+    margin-bottom: 40px;
+}
+
+.blog-one-heading h3 {
+    font-size: 47px;
+    font-weight: 700;
+}
+
+.blog-one-heading h5 {
+    font-size: 19px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -317,6 +330,14 @@ ul.contact-item li i {
     line-height: 55px;
     margin-right: 0;
     margin-bottom: 10px;
+}
+
+.blog-one-heading {
+    margin-bottom: 40px;
+}
+
+.blog-one-heading h3{
+    font-weight: 700;
 }
 
 }
